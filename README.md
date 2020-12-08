@@ -18,8 +18,6 @@ based on [wsldl](https://github.com/yuk7/wsldl)
 #### 1. [Download](https://github.com/yuk7/CentWSL/releases) installer zip
 
 #### 2. Extract all files in zip file to same directory
-
-#### 3.Run CentOS.exe to Extract rootfs and Register to WSL
 Exe filename is using to the instance name to register.
 If you rename it you can register with a diffrent name and have multiple installs.
 
